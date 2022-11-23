@@ -1,0 +1,8 @@
+<map id="RunnableClass::start" name="RunnableClass::start">
+<area shape="rect" id="node1" title=" " alt="" coords="313,107,469,133"/>
+<area shape="rect" id="node2" href="$class_collision_sensing_robot_controller.html#a137bd84920b59938be6ed9d3ca9bf531" title=" " alt="" coords="5,5,265,32"/>
+<area shape="rect" id="node3" href="$class_robot_controller.html#a6ae29d03e20d5b24e4b83a43f14602a2" title=" " alt="" coords="59,56,212,83"/>
+<area shape="rect" id="node4" href="$class_periodic_task.html#ad6b72a358aaa6a294f9a01c1a6f5cc27" title=" " alt="" coords="69,107,201,133"/>
+<area shape="rect" id="node5" href="$class_runnable_class.html#adf703f12a3d3ed432cfa756aadccd710" title=" " alt="" coords="57,157,213,184"/>
+<area shape="rect" id="node6" href="$class_image_capturer.html#ab2023c9240e1d38cffbb8a9eba0286fe" title=" " alt="" coords="33,208,237,235"/>
+</map>

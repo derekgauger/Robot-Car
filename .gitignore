@@ -1,0 +1,53 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/.metadata/
+Java/FreenoveRobotControllerWithLineStopAndImageReceive/.idea/misc.xml
+Java/FreenoveRobotControllerWithLineStopAndImageReceive/.idea/modules.xml
+Java/FreenoveRobotControllerWithLineStopAndImageReceive/.idea/uiDesigner.xml
+Java/FreenoveRobotControllerWithLineStopAndImageReceive/.idea/vcs.xml
+Java/FreenoveRobotControllerWithLineStopAndImageReceive/.idea/workspace.xml
+Java/FreenoveRobotControllerWithLineStopAndImageReceive/FreenoveRobotControllerWithLineStopAndImageReceive.iml
+Java/.idea/
+Java/out/
+pi/build/.cproject
+pi/build/.gitignore
+pi/build/.project
+pi/build/cmake_install.cmake
+pi/build/CMakeCache.txt
+pi/build/CMakeDoxyfile.in
+pi/build/CMakeDoxygenDefaults.cmake
+pi/build/CompleteRemoteRobot
+pi/build/Makefile
+pi/build/CMakeFiles/
+pi/src/.project
+Java/lab-9-solution.iml

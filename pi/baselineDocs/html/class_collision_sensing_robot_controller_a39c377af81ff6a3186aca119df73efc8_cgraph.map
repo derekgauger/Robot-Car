@@ -1,0 +1,6 @@
+<map id="CollisionSensingRobotController::processSpeedControlCommand" name="CollisionSensingRobotController::processSpeedControlCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,240,80"/>
+<area shape="rect" id="node2" href="$class_robot_controller.html#a3a3c48b6117955153cceef79f100b5e6" title=" " alt="" coords="317,5,500,47"/>
+<area shape="rect" id="node4" href="$classse3910_r_pi_1_1_collision_sensor.html#a6ab51240ed138446489609c9614ec94a" title=" " alt="" coords="288,71,529,112"/>
+<area shape="rect" id="node3" href="$class_motor_controller.html#ad6537e115b5e5e671339b13181bfc991" title=" " alt="" coords="577,13,769,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RobotController" name="RobotController">
+<area shape="rect" id="node1" title=" " alt="" coords="59,80,183,107"/>
+<area shape="rect" id="node3" href="$class_collision_sensing_robot_controller.html" title=" " alt="" coords="5,155,236,181"/>
+<area shape="rect" id="node2" href="$class_runnable_class.html" title=" " alt="" coords="61,5,180,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="PeriodicTask" name="PeriodicTask">
+<area shape="rect" id="node1" title=" " alt="" coords="172,183,275,209"/>
+<area shape="rect" id="node3" href="$class_camera.html" title=" " alt="" coords="403,5,477,32"/>
+<area shape="rect" id="node4" href="$class_horn.html" title=" " alt="" coords="413,56,467,83"/>
+<area shape="rect" id="node5" href="$class_image_capturer.html" title=" " alt="" coords="381,107,499,133"/>
+<area shape="rect" id="node6" href="$class_motor_controller.html" title=" " alt="" coords="378,157,502,184"/>
+<area shape="rect" id="node7" href="$classse3910_r_pi_1_1_collision_sensor.html" title=" " alt="" coords="341,208,539,235"/>
+<area shape="rect" id="node8" href="$classse3910_r_pi_1_1_line_sensor.html" title=" " alt="" coords="355,259,525,285"/>
+<area shape="rect" id="node9" href="$classse3910_r_pi_1_1_robot_status_manager.html" title=" " alt="" coords="323,309,557,336"/>
+<area shape="rect" id="node10" href="$classse3910_r_pi_h_c_s_r04_1_1_distance_sensor.html" title=" " alt="" coords="337,361,543,402"/>
+<area shape="rect" id="node2" href="$class_runnable_class.html" title=" " alt="" coords="5,183,124,209"/>
+</map>

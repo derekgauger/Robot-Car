@@ -1,0 +1,6 @@
+<map id="MotorController::setDirection" name="MotorController::setDirection">
+<area shape="rect" id="node1" title=" " alt="" coords="444,42,655,69"/>
+<area shape="rect" id="node2" href="$class_robot_controller.html#a76d37b76b29d19ed5e50e59cb5cc1b3c" title=" " alt="" coords="213,5,396,47"/>
+<area shape="rect" id="node3" href="$class_motor_controller.html#a317ce58ea93ea1329de5b87391560082" title=" " alt="" coords="225,71,385,98"/>
+<area shape="rect" id="node4" href="$class_robot_controller.html#a122b64b7cf020a75798e78d35e2b204b" title=" " alt="" coords="5,71,165,98"/>
+</map>

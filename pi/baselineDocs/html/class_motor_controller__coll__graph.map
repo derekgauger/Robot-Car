@@ -1,0 +1,7 @@
+<map id="MotorController" name="MotorController">
+<area shape="rect" id="node1" title=" " alt="" coords="77,184,201,211"/>
+<area shape="rect" id="node2" href="$class_periodic_task.html" title=" " alt="" coords="21,95,124,121"/>
+<area shape="rect" id="node3" href="$class_runnable_class.html" title=" " alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$class_p_c_a9685_driver.html" title=" " alt="" coords="163,95,283,121"/>
+<area shape="rect" id="node5" href="$classse3910_r_pi_1_1_i2_c_device.html" title="Generic I2C Device class that can be used to connect to any type of I2C device and read or write to i..." alt="" coords="148,5,312,32"/>
+</map>

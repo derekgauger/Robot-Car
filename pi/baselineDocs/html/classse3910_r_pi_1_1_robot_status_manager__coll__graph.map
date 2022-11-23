@@ -1,0 +1,10 @@
+<map id="se3910RPi::RobotStatusManager" name="se3910RPi::RobotStatusManager">
+<area shape="rect" id="node1" title=" " alt="" coords="133,303,367,329"/>
+<area shape="rect" id="node2" href="$class_periodic_task.html" title=" " alt="" coords="199,95,301,121"/>
+<area shape="rect" id="node7" href="$classse3910_r_pi_h_c_s_r04_1_1_distance_sensor.html" title=" " alt="" coords="5,199,212,240"/>
+<area shape="rect" id="node3" href="$class_runnable_class.html" title=" " alt="" coords="259,5,377,32"/>
+<area shape="rect" id="node4" href="$class_network_transmission_manager.html" title=" " alt="" coords="287,206,506,233"/>
+<area shape="rect" id="node5" href="$class_network_manager.html" title=" " alt="" coords="377,95,512,121"/>
+<area shape="rect" id="node6" href="$class_command_queue.html" title=" " alt="" coords="401,5,531,32"/>
+<area shape="rect" id="node8" href="$classse3910_r_pi_1_1_g_p_i_o.html" title="GPIO GPIO wrapper classes for usage with C++ and wiringPi." alt="" coords="43,95,174,121"/>
+</map>

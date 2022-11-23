@@ -1,0 +1,6 @@
+<map id="MotorController::setSpeed" name="MotorController::setSpeed">
+<area shape="rect" id="node1" title=" " alt="" coords="527,46,719,73"/>
+<area shape="rect" id="node2" href="$class_robot_controller.html#a3a3c48b6117955153cceef79f100b5e6" title=" " alt="" coords="292,5,475,47"/>
+<area shape="rect" id="node4" href="$class_robot_controller.html#a1da0045457f604bc30d998f3c01d8071" title=" " alt="" coords="288,71,479,112"/>
+<area shape="rect" id="node3" href="$class_collision_sensing_robot_controller.html#a39c377af81ff6a3186aca119df73efc8" title=" " alt="" coords="5,5,240,47"/>
+</map>

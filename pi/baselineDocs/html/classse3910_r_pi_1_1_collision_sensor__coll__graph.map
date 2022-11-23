@@ -1,0 +1,8 @@
+<map id="se3910RPi::CollisionSensor" name="se3910RPi::CollisionSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="151,304,349,331"/>
+<area shape="rect" id="node2" href="$class_periodic_task.html" title=" " alt="" coords="199,81,301,108"/>
+<area shape="rect" id="node4" href="$classse3910_r_pi_h_c_s_r04_1_1_distance_sensor.html" title=" " alt="" coords="5,185,212,227"/>
+<area shape="rect" id="node3" href="$class_runnable_class.html" title=" " alt="" coords="191,5,309,32"/>
+<area shape="rect" id="node5" href="$classse3910_r_pi_1_1_g_p_i_o.html" title="GPIO GPIO wrapper classes for usage with C++ and wiringPi." alt="" coords="43,81,174,108"/>
+<area shape="rect" id="node6" href="$class_command_queue.html" title=" " alt="" coords="287,193,418,219"/>
+</map>
